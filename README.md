@@ -1,1 +1,1 @@
-# php-openshfit
+# php-openshift
